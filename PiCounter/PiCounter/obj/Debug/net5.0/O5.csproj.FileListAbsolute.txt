@@ -1,0 +1,16 @@
+/Users/otsokinanen/Jyu/Algoritmit2/Demot/O5/O5/O5/bin/Debug/net5.0/O5
+/Users/otsokinanen/Jyu/Algoritmit2/Demot/O5/O5/O5/bin/Debug/net5.0/O5.deps.json
+/Users/otsokinanen/Jyu/Algoritmit2/Demot/O5/O5/O5/bin/Debug/net5.0/O5.runtimeconfig.json
+/Users/otsokinanen/Jyu/Algoritmit2/Demot/O5/O5/O5/bin/Debug/net5.0/O5.runtimeconfig.dev.json
+/Users/otsokinanen/Jyu/Algoritmit2/Demot/O5/O5/O5/bin/Debug/net5.0/O5.dll
+/Users/otsokinanen/Jyu/Algoritmit2/Demot/O5/O5/O5/bin/Debug/net5.0/O5.pdb
+/Users/otsokinanen/Jyu/Algoritmit2/Demot/O5/O5/O5/obj/Debug/net5.0/O5.csproj.AssemblyReference.cache
+/Users/otsokinanen/Jyu/Algoritmit2/Demot/O5/O5/O5/obj/Debug/net5.0/O5.GeneratedMSBuildEditorConfig.editorconfig
+/Users/otsokinanen/Jyu/Algoritmit2/Demot/O5/O5/O5/obj/Debug/net5.0/O5.AssemblyInfoInputs.cache
+/Users/otsokinanen/Jyu/Algoritmit2/Demot/O5/O5/O5/obj/Debug/net5.0/O5.AssemblyInfo.cs
+/Users/otsokinanen/Jyu/Algoritmit2/Demot/O5/O5/O5/obj/Debug/net5.0/O5.csproj.CoreCompileInputs.cache
+/Users/otsokinanen/Jyu/Algoritmit2/Demot/O5/O5/O5/obj/Debug/net5.0/O5.dll
+/Users/otsokinanen/Jyu/Algoritmit2/Demot/O5/O5/O5/obj/Debug/net5.0/refint/O5.dll
+/Users/otsokinanen/Jyu/Algoritmit2/Demot/O5/O5/O5/obj/Debug/net5.0/O5.pdb
+/Users/otsokinanen/Jyu/Algoritmit2/Demot/O5/O5/O5/obj/Debug/net5.0/O5.genruntimeconfig.cache
+/Users/otsokinanen/Jyu/Algoritmit2/Demot/O5/O5/O5/obj/Debug/net5.0/ref/O5.dll

@@ -1,0 +1,6 @@
+/Users/otsokinanen/Jyu/Algoritmit2/Demot/O3/Demo3O/Demo3O/obj/Debug/Demo3O.csproj.AssemblyReference.cache
+/Users/otsokinanen/Jyu/Algoritmit2/Demot/O3/Demo3O/Demo3O/obj/Debug/Demo3O.csproj.CoreCompileInputs.cache
+/Users/otsokinanen/Jyu/Algoritmit2/Demot/O3/Demo3O/Demo3O/bin/Debug/Demo3O.exe
+/Users/otsokinanen/Jyu/Algoritmit2/Demot/O3/Demo3O/Demo3O/bin/Debug/Demo3O.pdb
+/Users/otsokinanen/Jyu/Algoritmit2/Demot/O3/Demo3O/Demo3O/obj/Debug/Demo3O.exe
+/Users/otsokinanen/Jyu/Algoritmit2/Demot/O3/Demo3O/Demo3O/obj/Debug/Demo3O.pdb
